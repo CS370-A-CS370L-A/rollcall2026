@@ -3,6 +3,7 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 ## **Name and GitHub username/profile**
 
 * Richard Torres Molina - [torresmr](https://github.com/torresmr)
+* Ruth - [ruthiiyambo](https://github.com/ruthiiyambo) 
 * Aibak [aibak-cheema](https://github.com/aibak-cheema) 
 * Catelyn [7-clevengc-2](https://github.com/7-clevengc-2) 
 * TaLeya Maiden -[maident](https://github.com/maident)
