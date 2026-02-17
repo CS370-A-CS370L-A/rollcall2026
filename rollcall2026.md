@@ -3,6 +3,7 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 ## **Name and GitHub username/profile**
 
 * Richard Torres Molina - [torresmr](https://github.com/torresmr)
+* Catelyn [7-clevengc-2](https://github.com/7-clevengc-2) 
 * TaLeya Maiden -[maident](https://github.com/maident)
 * Basil Shevtsov - [VasylShevtsov](https://github.com/VasylShevtsov)
 * Van Nguyen - [yourvivian](https://github.com/yourvivian)
