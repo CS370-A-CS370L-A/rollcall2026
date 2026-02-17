@@ -1,7 +1,9 @@
 Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github)
 
 ## **Name and GitHub username/profile**
+
 * Richard Torres Molina - [torresmr](https://github.com/torresmr)
+* Pure Buahom - [buahomy](https://github.com/buahomy)
 * Emerie Tattersall - [emi471](https://github.com/emi471)
 * Liuyi - [viere61](https://github.com/viere61)
 * Simon Harrington - [Catpotato42](https://github.com/Catpotato42)
