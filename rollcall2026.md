@@ -2,6 +2,7 @@ Written in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/wri
 
 ## **Name and GitHub username/profile**
 * Richard Torres Molina - [torresmr](https://github.com/torresmr)
+* Simon Harrington - [Catpotato42](https://github.com/Catpotato42)
 * Aiden Guenther - [aguenth972](https://github.com/aguenth972)
 * Hussein Hirsi - [HusseinH214](https://github.com/HusseinH214)
 * Devon Meeker - [devoniano](https://github.com/devoniano)
